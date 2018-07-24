@@ -1,0 +1,23 @@
+#components-form-demo-normal-login .login-form {
+    max-width: 300px;
+  }
+  #components-form-demo-normal-login .login-form-forgot {
+    float: right;
+  }
+  #components-form-demo-normal-login .login-form-button {
+    width: 100%;
+  }
+  .login{padding: 15px;
+    border:1px solid #ccc;
+      border:1px solid #ddd;
+      max-width: 300px;
+      margin: 200px auto 0;
+  }
+  .login .h3{
+    font :normal 700 20px "Microsoft Yahei";
+    text-align: left;
+    margin-bottom: 0;
+  }
+  .login .logo{
+    width: 30px;
+  }
